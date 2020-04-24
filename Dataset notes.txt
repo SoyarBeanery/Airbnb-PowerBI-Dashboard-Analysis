@@ -1,0 +1,32 @@
+*NY Aug 2019 Dataset*
+Listing Excel (48,864 rows of observations)
+- name variable - 16 Missing values
+- host_name variable - 18 Missing values
+- last_review variable - 10,131 Missing values
+- reviews_per_month - 10,131 Missing values
+
+After cleaning: 48,830 rows of observations
+
+---------------------------------------------------------
+*NY Aug 2018 Dataset*
+Listing Excel (50,914 rows of observations)
+- name variable - 26 Missing values
+- host_name variable - 8 Missing values
+- last_review variable - 11,403 Missing values
+- reviews_per_month - 11,403 Missing values
+
+After cleaning: 50,880 rows of observations
+
+---------------------------------------------------------
+*NY Aug 2017 Dataset*
+Listing Excel (44,834 rows of observations)
+- name variable - 28 Missing values
+- host_name variable - 24 Missing values
+- last_review variable - 10,737 Missing values
+- reviews_per_month - 10,737 Missing values
+
+After cleaning: 44,782 rows of observations
+
+---------------------------------------------------------
+
+

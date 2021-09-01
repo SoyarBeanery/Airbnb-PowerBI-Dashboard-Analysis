@@ -1,3 +1,5 @@
 # Airbnb-PowerBI-Dashboard-Analysis
 
+https://app.powerbi.com/view?r=eyJrIjoiNmE0YTg1NTktZjE4Ny00ZjcyLWEzMDUtNGVmMzc4NzJjYTYwIiwidCI6IjUzN2MyYmUxLWZjZDQtNDVhOS04M2IzLTY2NTNlYWNjNTA3MCIsImMiOjEwfQ%3D%3D&pageName=ReportSection08f7c408483077a30580
+
 
